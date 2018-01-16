@@ -68,9 +68,11 @@ The output of training looks like:
 2018-01-16 14:39:19.833766: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\35\tensorflow\core\kernels\logging_ops.cc:79] Loss Class 	[1.2905916]
 2018-01-16 14:39:19.833883: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\35\tensorflow\core\kernels\logging_ops.cc:79] Total Loss 	[1.89719033]
 ```
+## 5 test detection
 
-## 5 note
+Running `test_detection.py` to test detection.
+
+## 6 note
 
 Decoding coco format json files  with Python may take a while.
-
 
