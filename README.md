@@ -68,6 +68,11 @@ The output of training looks like:
 2018-01-16 14:39:19.833766: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\35\tensorflow\core\kernels\logging_ops.cc:79] Loss Class 	[1.2905916]
 2018-01-16 14:39:19.833883: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\35\tensorflow\core\kernels\logging_ops.cc:79] Total Loss 	[1.89719033]
 ```
+
+## 5 Weight File
+
+Here is my weight file [keras_yolo2_weight(BaiduYunDisk)](https://pan.baidu.com/s/1ZLlbGaPj--LXql2m_I1gLg) trained from my code .
+
 ## 5 test detection
 
 Running `test_detection.py` to test detection.
